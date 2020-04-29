@@ -1,3 +1,5 @@
+@Library('lib4dt')
+
 pipeline{
     agent {
         label 'jenkins-slave'
